@@ -1,0 +1,61 @@
+{
+  "hash": "de43e96b",
+  "configHash": "bdc9eb60",
+  "lockfileHash": "511526c8",
+  "browserHash": "5084acdc",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "9e214d1b",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "03fed738",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7d4bc3e4",
+      "needsInterop": false
+    },
+    "plotly.js-dist-min": {
+      "src": "../../../../../../node_modules/plotly.js-dist-min/plotly.min.js",
+      "file": "plotly__js-dist-min.js",
+      "fileHash": "55df6f5d",
+      "needsInterop": true
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "75ed4429",
+      "needsInterop": false
+    },
+    "rxjs/webSocket": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/webSocket/index.js",
+      "file": "rxjs_webSocket.js",
+      "fileHash": "2204e3a9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-O4EIA23W": {
+      "file": "chunk-O4EIA23W.js"
+    },
+    "chunk-LATUR7DQ": {
+      "file": "chunk-LATUR7DQ.js"
+    },
+    "chunk-MCFCQ664": {
+      "file": "chunk-MCFCQ664.js"
+    },
+    "chunk-DMKXPM4G": {
+      "file": "chunk-DMKXPM4G.js"
+    },
+    "chunk-H2SRQSE4": {
+      "file": "chunk-H2SRQSE4.js"
+    }
+  }
+}
