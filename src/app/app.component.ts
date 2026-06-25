@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { CryptoDashboardComponent } from './components/crypto-dashboard/crypto-dashboard.component';
+import { CryptoDashboardComponent } from './presentation/components/crypto-dashboard/crypto-dashboard.component';
 
 @Component({
   selector: 'app-root',
